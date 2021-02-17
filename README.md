@@ -47,4 +47,4 @@
         <li>Kulkarni, Kedar V., "A step-by-step guide to Git", January, 2018, https://opensource.com/article/18/1/step-step-guide-git</li>
         <li>WebStrom, "Git", October, 2018, https://www.jetbrains.com/help/webstorm/using-git-integration.html</li>
       </ul>
-  
+  </body>
